@@ -220,7 +220,7 @@
     </div>
     <div class="course-card" data-course="python">
       <img class="course-logo" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" />
-      Python
+      Python programming
     </div>
     <div class="course-card" data-course="java">
       <img class="course-logo" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Logo" />
