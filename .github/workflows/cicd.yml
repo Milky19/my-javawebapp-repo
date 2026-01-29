@@ -25,6 +25,8 @@ jobs:
       - name: Build with Maven
         run: mvn clean install -f MyWebApp/pom.xml
 
+
+
       - name: Deploy to Tomcat
         run: |
           curl -v -u ${{ secrets.TOMCAT_USER }}:${{ secrets.TOMCAT_PASSWORD }} \
