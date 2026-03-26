@@ -23,6 +23,8 @@ jobs:
           -T MyWebApp/target/MyWebApp.war \
           "http://${{ secrets.TOMCAT_HOST }}/manager/text/deploy?path=/MyWebApp&update=true"
 
+          
+
 
       
        
