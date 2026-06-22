@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     # Use self-hosted if Tomcat is on the same server
     # runs-on: self-hosted
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
