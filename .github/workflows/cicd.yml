@@ -1,4 +1,4 @@
-name: CI/CD for Java App
+name: CI/CD App Updated 
 on:
   push:
     branches:
